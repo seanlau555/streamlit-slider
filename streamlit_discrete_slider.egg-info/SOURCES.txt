@@ -1,0 +1,17 @@
+MANIFEST.in
+setup.py
+discrete_slider/__init__.py
+discrete_slider/frontend/build/asset-manifest.json
+discrete_slider/frontend/build/bootstrap.min.css
+discrete_slider/frontend/build/index.html
+discrete_slider/frontend/build/precache-manifest.e97d3187e8c1607d7788aa52933f30ff.js
+discrete_slider/frontend/build/service-worker.js
+discrete_slider/frontend/build/static/js/2.e8266724.chunk.js
+discrete_slider/frontend/build/static/js/2.e8266724.chunk.js.LICENSE.txt
+discrete_slider/frontend/build/static/js/main.e831a053.chunk.js
+discrete_slider/frontend/build/static/js/runtime-main.97b4e619.js
+streamlit_discrete_slider.egg-info/PKG-INFO
+streamlit_discrete_slider.egg-info/SOURCES.txt
+streamlit_discrete_slider.egg-info/dependency_links.txt
+streamlit_discrete_slider.egg-info/requires.txt
+streamlit_discrete_slider.egg-info/top_level.txt
